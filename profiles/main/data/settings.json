@@ -60,5 +60,6 @@
   },
   "diffEditor.hideUnchangedRegions.enabled": true,
   "editor.copyWithSyntaxHighlighting": false,
-  "files.autoSave": "afterDelay"
+"files.autoSave": "afterDelay",
+"trae.floatingChat.enabled": false
 }
