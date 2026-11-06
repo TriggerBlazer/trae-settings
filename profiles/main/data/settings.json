@@ -1,0 +1,66 @@
+{
+  "trae.floatingChat.buttonIcon": "traebao",
+  "trae.network.proxy.effectiveMode": "system",
+  "window.autoDetectColorScheme": false,
+  "workbench.colorTheme": "One Dark Modern",
+  "editor.fontSize": 16,
+  "terminal.integrated.shell.windows": "D:/ProgramFiles/Git/bin/bash.exe",
+  "terminal.integrated.fontSize": 17,
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "python.linting.pylintEnabled": false,
+  "python.condaPath": "D:/ProgramFiles/anaconda3/Scripts",
+  "python.linting.flake8Enabled": true,
+  "python.formatting.provider": "yapf",
+  "python.linting.flake8Path": "D:/ProgramFiles/anaconda3/Scripts/flake8",
+  "python.linting.flake8Args": [
+    "--max-line-length=400",
+    "--ignore=W191",
+    "--extend-ignore=W503",
+    "--extend-ignore=W504",
+    "--ignore=E126"
+  ],
+  "cSpell.userWords": [
+    "Bimface",
+    "Glodon"
+  ],
+  "plantuml.exportOutDir": "Export",
+  "plantuml.exportSubFolder": false,
+  "plantuml.jarArgs": [
+    "-DPLANTUML_LIMIT_SIZE=918192"
+  ],
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "ycy.title": "爸爸，爸爸，代码写久了，该休息啦~",
+  "ycy.type": "url",
+  "ycy.customImages": [
+    "http://b-ssl.duitang.com/uploads/item/201806/04/20180604090459_gqqjo.jpg"
+  ],
+  "hediet.vscode-drawio.local-storage": "eyIuZHJhd2lvLWNvbmZpZyI6IntcImxhbmd1YWdlXCI6XCJcIixcImN1c3RvbUZvbnRzXCI6W10sXCJsaWJyYXJpZXNcIjpcImdlbmVyYWxcIixcImN1c3RvbUxpYnJhcmllc1wiOltcIkwuc2NyYXRjaHBhZFwiXSxcInBsdWdpbnNcIjpbXSxcInJlY2VudENvbG9yc1wiOltdLFwiZm9ybWF0V2lkdGhcIjpcIjI0MFwiLFwiY3JlYXRlVGFyZ2V0XCI6ZmFsc2UsXCJwYWdlRm9ybWF0XCI6e1wieFwiOjAsXCJ5XCI6MCxcIndpZHRoXCI6ODI3LFwiaGVpZ2h0XCI6MTE2OX0sXCJzZWFyY2hcIjp0cnVlLFwic2hvd1N0YXJ0U2NyZWVuXCI6dHJ1ZSxcImdyaWRDb2xvclwiOlwiI2QwZDBkMFwiLFwiZGFya0dyaWRDb2xvclwiOlwiIzZlNmU2ZVwiLFwiYXV0b3NhdmVcIjp0cnVlLFwicmVzaXplSW1hZ2VzXCI6bnVsbCxcIm9wZW5Db3VudGVyXCI6MCxcInZlcnNpb25cIjoxOCxcInVuaXRcIjoxLFwiaXNSdWxlck9uXCI6ZmFsc2UsXCJ1aVwiOlwiXCJ9In0=",
+  "leetcode.endpoint": "leetcode-cn",
+  "leetcode.defaultLanguage": "cpp",
+  "leetcode.workspaceFolder": "e:\\CODE\\Own\\.leetcode",
+  "leetcode.hint.configWebviewMarkdown": false,
+  "leetcode.hint.commandShortcut": false,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "search.useGlobalIgnoreFiles": true,
+  "search.useParentIgnoreFiles": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.quickSuggestions": {
+    "comments": "on"
+  },
+  "editor.suggest.snippetsPreventQuickSuggestions": true,
+  "liveServer.settings": {
+    "Cross-Origin-Embedder-Policy": "require-corp",
+    "Cross-Origin-Opener-Policy": "same-origin"
+  },
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "editor.copyWithSyntaxHighlighting": false,
+  "files.autoSave": "afterDelay",
+  "gitlens.ai.model": "vscode",
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1"
+}
