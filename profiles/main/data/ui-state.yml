@@ -1,97 +1,21 @@
 alefragnani.project-manager: '{"project-manager.version":"13.1.1","project-manager.whatsNew.shown":"13.1.1"}'
 cweijan.vscode-office: '{"office.legacyWebStorageCleared":true}'
-eamodio.gitlens: '{"gitlens:premium:subscription":{"v":1,"data":{"plan":{"actual":{"id":"community","name":"GitLens
-  Community","bundle":false,"cancelled":false,"trialReactivationCount":0,"startedOn":"2026-11-06T14:36:51.058Z"},"effective":{"id":"community","name":"GitLens
-  Community","bundle":false,"cancelled":false,"trialReactivationCount":0,"startedOn":"2026-11-06T14:36:51.058Z"}},"state":0}},"gitlens:version":"19.5.0","gitlens:synced:version":"19.5.0","gitlens:repoVisibility":[["d:/CODE/webviewer3d",{"visibility":"private","timestamp":1793975815874,"remotesHash":"geek.glodon.com/scm/web3d/webviewer3d"}]],"gitlens:settings:migrated":["graph.details.location:auto","terminalLinks.showIn:enum","ai.model:unpin-passive-copilot","views.legacy:hidden"],"gitlens:onboarding:state":{"items":{"graph:coachMarks:bannerDeferral":{"dismissedAt":"2026-11-06T14:37:31.295Z","dismissedVersion":"19.5.0"}},"migratedVersion":"17.9.0"},"gitlens:integrations:migrated:cloudOnly":true,"gitlens:featureFlags:flags":{"glensGraphGateIntroVideo":false,"glensWelcomeInEditor":true},"gitlens:featureFlags:fetched":true,"gitlens:plus:preview:graph:usages":[{"startedOn":"2026-11-06T14:37:29.662Z","expiresOn":"2026-11-09T14:37:29.662Z"}],"gitlens:windows:gk:cli:install":{"status":"attempted","attempts":1}}'
-ms-python.python: '{"PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\CODE\\WEBVIEWER3D":true,"PYTHON_ENV_INFO_CACHEv2":[],"remoteWorkspaceFolderKeysForWhichTheCopyIsDone_Key":["D:\\CODE\\WEBVIEWER3D"],"isRemoteGlobalSettingCopiedKey":true,"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"VSCode.ABExp.FeatureData","defaultValue":{"features":[]}},{"key":"isRemoteGlobalSettingCopiedKey","defaultValue":false},{"key":"remoteWorkspaceFolderKeysForWhichTheCopyIsDone_Key","defaultValue":[]},{"key":"autoSelectionInterpretersQueriedOnce"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\CODE\\WEBVIEWER3D","defaultValue":false},{"key":"PYTHON_ENV_INFO_CACHEv2","defaultValue":[]},{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]},{"key":"SHELL_INTEGRATION_WORKING_KEY_bash"},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_D:\\CODE\\WEBVIEWER3D"},{"key":"preferredGlobalPyInterpreter"}],"pylanceDefaultPromptMemento":true}'
-shd101wyy.markdown-preview-enhanced: '{"markdown-preview-enhanced.ownedEditorAssociations":[]}'
 streetsidesoftware.code-spell-checker: '{"showDecorations":true}'
 vscode-icons-team.vscode-icons: '{"vsicons":{"version":"13.0.0","status":2,"welcomeShown":true}}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":3},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.project-manager","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.cspell-info-explorer","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.cspell-regexp-explorer","pinned":true,"visible":false,"order":16},{"id":"workbench.view.remote","pinned":true,"visible":false}]'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":3},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.project-manager","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.cspell-info-explorer","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.cspell-regexp-explorer","pinned":true,"visible":false,"order":10},{"id":"workbench.view.remote","pinned":true,"visible":false}]'
 workbench.activity.pinnedViewlets2-solo: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":3},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.project-manager","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.leetcode","pinned":true,"visible":false,"order":10},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":10,"isICubeBuiltin":true},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":11},{"id":"workbench.view.trae.remote","pinned":true,"visible":false,"order":11,"isICubeBuiltin":true},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":12},{"id":"workbench.view.remote","pinned":true,"visible":false}]'
-workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.extensions\",\
-  \"themeIcon\":{\"id\":\"extensions-view-icon\"},\"name\":\"扩展\",\"isBuiltin\"\
-  :true,\"views\":[{\"when\":\"defaultExtensionViews && extensionsGalleryStatus
-  == 'accessDenied' || defaultExtensionViews && extensionsGalleryStatus ==
-  'requiresSignIn' || searchMarketplaceExtensions && extensionsGalleryStatus ==
-  'accessDenied' || searchMarketplaceExtensions && extensionsGalleryStatus ==
-  'requiresSignIn'\"},{\"when\":\"defaultExtensionViews\"},{\"when\":\"searchEx\
-  tensionUpdates ||
-  searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
-  workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews && hasGallery
-  && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
-  searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
-  en\":\"defaultExtensionViews && hasGallery &&
-  !config.extensions.showRecommendationsOnlyOnDemand &&
-  !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"hasGallery &&
-  searchMarketplaceExtensions\"},{\"when\":\"installedExtensions ||
-  searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"when\":\
-  \"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\"when\
-  \":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensions\"}\
-  ,{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"},{\"when\":\
-  \"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorksp\
-  aceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"}]},{\"id\":\"wor\
-  kbench.view.chat.sessions\",\"themeIcon\":{\"id\":\"chat-sessions-icon\",\"de\
-  scription\":\"Icon for Agent Sessions
-  View\",\"defaults\":{\"id\":\"comment-discussion-sparkle\"}},\"name\":\"智能体会话\
-  \",\"isBuiltin\":true,\"views\":[{\"when\":\"!chatSetupDisabled &&
-  !chatSetupHidden && config.chat.agentSessionsViewLocation ==
-  'view'\"}]},{\"id\":\"workbench.view.extension.test\",\"themeIcon\":{\"id\":\
-  \"test-view-icon\"},\"name\":\"测试\",\"isBuiltin\":true,\"views\":[{\"when\":\
-  \"testing.providerCount >
-  0\"},{\"when\":\"testing.isTestCoverageOpen\"}]},{\"id\":\"workbench.view.ext\
-  ension.references-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"引用\
-  \",\"isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\"}]},{\
-  \"id\":\"workbench.view.extension.project-manager\",\"iconUrl\":{\"$mid\":1,\
-  \"path\":\"%%EXTENSION_DATA_PATH%%/alefragnani.project-manager-13.0.1/images/\
-  project-manager-side-bar.svg\",\"scheme\":\"file\"},\"name\":\"项目管理器\",\"isBu\
-  iltin\":false,\"views\":[{},{\"when\":\"projectManager.canShowTreeViewGit\"},{\
-  \"when\":\"projectManager.canShowTreeViewSVN\"},{\"when\":\"projectManager.ca\
-  nShowTreeViewAny\"},{\"when\":\"projectManager.canShowTreeViewMercurial\"},{\
-  \"when\":\"projectManager.canShowTreeViewVSCode\"},{}]},{\"id\":\"workbench.v\
-  iew.extension.gitlens\",\"themeIcon\":{\"id\":\"gitlens-gitlens\"},\"name\":\
-  \"GitLens\",\"isBuiltin\":false,\"views\":[{},{\"when\":\"!config.gitlens.vie\
-  ws.scm.grouped.views.launchpad &&
-  !gitlens:views:scm:grouped:views:launchpad\"},{\"when\":\"config.gitlens.clou\
-  dPatches.enabled && gitlens:gk:organization:drafts:enabled &&
-  !gitlens:hasVirtualFolders &&
-  !gitlens:untrusted\"},{\"when\":\"!gitlens:hasVirtualFolders &&
-  !gitlens:untrusted\"}]},{\"id\":\"workbench.view.extension.cspell-explorer\",\
-  \"name\":\"Spell Checker
-  Info\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.gitlensInspect\
-  \",\"themeIcon\":{\"id\":\"gitlens-gitlens-inspect\"},\"name\":\"GitLens
-  Inspect\",\"isBuiltin\":false,\"views\":[{\"when\":\"!gitlens:disabled\"},{\"\
-  when\":\"gitlens:views:pullRequest:visible &&
-  !gitlens:disabled\"},{\"when\":\"!gitlens:disabled &&
-  !gitlens:hasVirtualFolders\"},{\"when\":\"!config.gitlens.views.scm.grouped.v\
-  iews.fileHistory && !gitlens:disabled &&
-  !gitlens:views:scm:grouped:views:fileHistory\"},{\"when\":\"!gitlens:disabled
-  && !gitlens:plus:disabled || !gitlens:disabled &&
-  gitlens:plus:disabled:view:overrides =~
-  /(?:^|\\\\|)gitlens\\\\.views\\\\.timeline(?:\\\\||$)/\"},{\"when\":\"!config\
-  .gitlens.views.scm.grouped.views.searchAndCompare && !gitlens:disabled &&
-  !gitlens:views:scm:grouped:views:searchAndCompare\"}]},{\"id\":\"workbench.vi\
-  ew.extension.gitlensPatch\",\"themeIcon\":{\"id\":\"gitlens-cloud-patch\"},\"\
-  name\":\"GitLens
-  Patch\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.gitlens.cloudPatche\
-  s.enabled && gitlens:views:patchDetails:mode &&
-  !gitlens:untrusted\"}]},{\"id\":\"workbench.view.extension.cspell-info-explor\
-  er\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/streetsidesof\
-  tware.code-spell-checker-4.4.0/resources/dark/check_circle.svg\",\"scheme\":\
-  \"file\"},\"name\":\"Spell Checker
-  Info\",\"isBuiltin\":false,\"views\":[{\"when\":\"cSpell.context.displayCSpel\
-  lInfo\"}]},{\"id\":\"workbench.view.extension.cspell-regexp-explorer\",\"icon\
-  Url\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-\
-  spell-checker-4.4.0/resources/dark/check_circle.svg\",\"scheme\":\"file\"},\"\
-  name\":\"Regular
-  Expressions\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.cSpell.experi\
-  mental.enableRegexpView\"}]},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\
-  \"id\":\"remote-explorer-view-icon\"},\"name\":\"远程资源管理器\",\"isBuiltin\":true,\
-  \"views\":[]}]"
+workbench.activity.placeholderViewlets: '[{"id":"workbench.view.extensions","themeIcon":{"id":"extensions-view-icon"},"name":"扩展","isBuiltin":true,"views":[]},{"id":"workbench.view.chat.sessions","themeIcon":{"id":"chat-sessions-icon","description":"Icon
+  for Agent Sessions
+  View","defaults":{"id":"comment-discussion-sparkle"}},"name":"智能体会话","isBuiltin":true,"views":[]},{"id":"workbench.view.extension.test","themeIcon":{"id":"test-view-icon"},"name":"测试","isBuiltin":true,"views":[{"when":"testing.providerCount
+  >
+  0"},{"when":"testing.isTestCoverageOpen"}]},{"id":"workbench.view.extension.references-view","themeIcon":{"id":"references"},"name":"引用","isBuiltin":false,"views":[{"when":"reference-list.isActive"}]},{"id":"workbench.view.extension.project-manager","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/alefragnani.project-manager-13.0.1/images/project-manager-side-bar.svg","scheme":"file"},"name":"项目管理器","isBuiltin":false,"views":[{},{"when":"projectManager.canShowTreeViewGit"},{"when":"projectManager.canShowTreeViewSVN"},{"when":"projectManager.canShowTreeViewAny"},{"when":"projectManager.canShowTreeViewMercurial"},{"when":"projectManager.canShowTreeViewVSCode"},{}]},{"id":"workbench.view.extension.gitlens","name":"GitLens","isBuiltin":false},{"id":"workbench.view.extension.cspell-explorer","name":"Spell
+  Checker
+  Info","isBuiltin":false},{"id":"workbench.view.extension.gitlensInspect","name":"GitLens
+  Inspect","isBuiltin":false},{"id":"workbench.view.extension.gitlensPatch","name":"GitLens
+  Patch","isBuiltin":false},{"id":"workbench.view.extension.cspell-info-explorer","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-spell-checker-4.4.0/resources/dark/check_circle.svg","scheme":"file"},"name":"Spell
+  Checker
+  Info","isBuiltin":false,"views":[{"when":"cSpell.context.displayCSpellInfo"}]},{"id":"workbench.view.extension.cspell-regexp-explorer","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-spell-checker-4.4.0/resources/dark/check_circle.svg","scheme":"file"},"name":"Regular
+  Expressions","isBuiltin":false,"views":[{"when":"config.cSpell.experimental.enableRegexpView"}]},{"id":"workbench.view.remote","themeIcon":{"id":"remote-explorer-view-icon"},"name":"远程资源管理器","isBuiltin":true,"views":[]}]'
 workbench.activityBar.location: default
 workbench.auxiliaryBar.empty: "false"
 workbench.auxiliaryBar.lastNonMaximizedSize: "300"
@@ -110,20 +34,16 @@ workbench.panel.lastNonMaximizedHeight: "339"
 workbench.panel.lastNonMaximizedWidth: "300"
 workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
-workbench.panel.pinnedPanels: '[{"id":"icube-modules-desktop-webview-exception","pinned":true,"visible":false,"order":0,"isICubeBuiltin":false,"hideCompositeItemInSoloMode":true},{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.dsl-agent-logs","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.icube-devtool-ports","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.gitlensPanel","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.cspellPanel","pinned":true,"visible":false,"order":10},{"id":"refactorPreview","pinned":true,"visible":false}]'
+workbench.panel.pinnedPanels: '[{"id":"icube-modules-desktop-webview-exception","pinned":true,"visible":false,"order":0,"isICubeBuiltin":false,"hideCompositeItemInSoloMode":true},{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.dsl-agent-logs","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.icube-devtool-ports","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.gitlensPanel","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.cspellPanel","pinned":true,"visible":false,"order":8},{"id":"refactorPreview","pinned":true,"visible":false}]'
 workbench.panel.pinnedPanels-solo: '[{"id":"icube-modules-desktop-webview-exception","pinned":true,"visible":false,"order":0,"isICubeBuiltin":false,"hideCompositeItemInSoloMode":true},{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.dsl-agent-logs","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.icube-devtool-ports","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.jupyter-variables","pinned":true,"visible":false,"order":8},{"id":"refactorPreview","pinned":true,"visible":false}]'
 workbench.panel.placeholderPanels: '[{"id":"icube-modules-desktop-webview-exception","themeIcon":{"id":"icube-PreviewDevtool"},"name":"控制台日志","isBuiltin":true,"views":[{"when":"icube-devtool-preview-exception.visible
   && !isSoloModeContext || icube-devtool-preview.openInEditor &&
   !isSoloModeContext"}]},{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"问题","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"输出","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"调试控制台","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"终端","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"测试结果","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"端口","isBuiltin":true,"views":[]},{"id":"workbench.view.extension.dsl-agent-logs","iconUrl":{"$mid":1,"path":"/d:/Program/Trae
   CN/resources/app/extensions/cloudide.dsl-agent-logs/assets/icon.png","scheme":"file"},"name":"DSLAgentLogs","isBuiltin":false,"views":[{"when":"dsl-agent-logs.enabled"},{"when":"dsl-agent-logs.enabled"}]},{"id":"workbench.view.extension.icube-devtool-ports","iconUrl":{"$mid":1,"path":"/d:/Program/Trae
-  CN/resources/app/extensions/cloudide.icube-devtool-ports/assets/icon.png","scheme":"file"},"name":"网络服务","isBuiltin":false,"views":[]},{"id":"workbench.view.extension.gitlensPanel","themeIcon":{"id":"gitlens-graph"},"name":"GitLens","isBuiltin":false,"views":[{"when":"!gitlens:disabled
-  && !gitlens:plus:disabled || !gitlens:disabled &&
-  gitlens:plus:disabled:view:overrides =~
-  /(?:^|\\|)gitlens\\.views\\.graph(?:\\||$)/"},{"when":"!gitlens:disabled &&
-  !gitlens:plus:disabled"}]},{"id":"workbench.view.extension.cspellPanel","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-spell-checker-4.4.0/resources/dark/check_circle.svg","scheme":"file"},"name":"Spell
+  CN/resources/app/extensions/cloudide.icube-devtool-ports/assets/icon.png","scheme":"file"},"name":"网络服务","isBuiltin":false,"views":[]},{"id":"workbench.view.extension.gitlensPanel","name":"GitLens","isBuiltin":false},{"id":"workbench.view.extension.cspellPanel","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-spell-checker-4.4.0/resources/dark/check_circle.svg","scheme":"file"},"name":"Spell
   Checker","isBuiltin":false,"views":[{},{}]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"重构预览","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
-workbench.panel.size: "339.6666666666667"
+workbench.panel.size: "339"
 workbench.scm.views.state.hidden: '[{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm.agentReview","isHidden":false},{"id":"workbench.scm.history","isHidden":false},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false},{"id":"gitlens.views.contributors","isHidden":false},{"id":"gitlens.views.scm.grouped","isHidden":false}]'
 workbench.sideBar.size: "329"
 workbench.soloMode.ai.sideBar.hidden: "true"
